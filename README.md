@@ -28,6 +28,6 @@ Pack to .exe or .app:
 ------ Py2exe <br> <br>
 ---- Setup your path <br> <br>
 ---- Type in Cmd: <br>
------- python setup.py py2app <br>
+------ python window.py py2exe <br>
 ---- When it done check do you have "dist" folder <br>
 ---- If you have, you succeed <br>
